@@ -1,0 +1,39 @@
+h2 {
+  color: blue;
+  align-self: center;
+  text-align: center;
+  font-size: 50;
+}
+
+#div1 {
+  background-color: rgb(240, 242, 245);
+}
+
+#div2 {
+  background-color: white;
+  box-shadow: 5px 5px 5px 5px grey;
+}
+
+form,
+p {
+  text-align: center;
+  font-size: 30;
+}
+
+input[type="text"],
+[type="password"] {
+  padding: 10;
+  margin: 10;
+  background-color: white;
+}
+
+input[type="button"] {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  align-self: center;
+}
